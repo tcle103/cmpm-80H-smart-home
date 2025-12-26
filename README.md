@@ -1,4 +1,5 @@
 # Comparing Impressions of Smart Home AI Over Time
+Group 3 - Jaxon Ruiz, Soujit Ing, Shirley Delgadillo, Celeste Tan, Tien Le
 ## Goal
 Our goal for this research project was to ascertain if the role of artificial intelligence (AI) and associated technologies in our daily lives have grown or changed over time.
 ## How to navigate this repository
